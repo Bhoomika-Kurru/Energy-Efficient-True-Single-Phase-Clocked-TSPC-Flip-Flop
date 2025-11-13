@@ -1,0 +1,57 @@
+# Energy-Efficient TSPC Flip-Flop Design
+
+This project presents an optimized True Single Phase Clocked (TSPC) flip-flop architecture for high-performance, low-power VLSI systems. The design integrates input-aware pre-charge, floating-node analysis, SET/RESET functionality, and SEU-tolerant improvements. Implemented using Tanner EDA (S-Edit & T-Spice), the proposed flip-flop achieves up to **80% power reduction** and **26% delay improvement** compared to the traditional TGFF, making it ideal for modern low-voltage, high-speed digital circuits.
+
+## 🚀 Features
+- Optimized TSPC architecture for reduced power and delay  
+- Input-aware pre-charge mechanism  
+- Floating-node stability analysis  
+- Integrated SET/RESET operation  
+- SEU-tolerant design modifications  
+- Tanner EDA simulation results with waveform analysis  
+
+## 🛠 Tools & Technologies
+- **Tanner EDA Suite** (S-Edit, T-Spice)  
+- **CMOS VLSI Design**  
+- **Low-Power Digital Design**  
+- **Power & Delay Analysis**  
+
+## 📁 Project Structure
+TSPC_FlipFlop_Project/
+│
+├── Documentation/
+│ ├── Final_Report.pdf
+│ ├── Abstract.docx
+│ └── References.pdf
+│
+├── Simulation_Files/
+│ ├── S-Edit_Schematics/
+│ ├── T-Spice_Netlists/
+│ └── Waveforms/
+│
+├── Images/
+│ ├── Schematic.png
+│ ├── Layout.png
+│ └── Output_Waveform.png
+│
+├── Presentation/
+│ └── TSPC_Project_Presentation.pptx
+│
+├── README_assets/
+│ └── Banner.png
+│
+└── README.md
+
+## 📊 Results Summary
+- **80% reduction in average power**
+- **26% improvement in propagation delay**
+- Lower PDP compared to TGFF  
+- Suitable for low-voltage, high-speed systems  
+
+## 👤 Author
+**Your Name**  
+VLSI Design | Low Power Circuits | CMOS Architecture  
+
+## 🔗 Connect
+- GitHub: *your profile link*  
+- LinkedIn: *your profile link*  
