@@ -27,13 +27,9 @@ TSPC_FlipFlop_Project/
 ├── Simulation_Files/
 │ ├── S-Edit_Schematics/
 │ ├── T-Spice_Netlists/
+| ├──Table/
 │ └── Waveforms/
-│
-├── Images/
-│ ├── Schematic.png
-│ ├── Layout.png
-│ └── Output_Waveform.png
-│
+| 
 ├── Presentation/
 │ └── TSPC_Project_Presentation.pptx
 │
